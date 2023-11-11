@@ -1,6 +1,6 @@
 # E-commerce Cart System
 
-This is a simple E-commerce cart system implemented in Java.
+This is a simple E-commerce cart system implemented in Java. The Source code is available in src folder.
 
 ## Features
 
